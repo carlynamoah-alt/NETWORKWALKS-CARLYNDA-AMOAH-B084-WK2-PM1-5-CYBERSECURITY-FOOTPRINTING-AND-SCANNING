@@ -213,39 +213,35 @@ In the footprinting activity, I used six Kali Linux tools to learn about `networ
 
 **WHOIS**
 
-![whois output](1_whois.png)
+![whois output](WHOIS.png)
 
 **WhatWeb**
 
-![whatweb output](2_whatweb.png)
+![whatweb output](whatweb.png)
 
 **Nslookup**
 
-![nslookup output](3_nslookup.png)
+![nslookup output](nslookup.png)
 
 **Curl**
 
-![curl output](4_curl.png)
+![curl output](curl.png)
 
 **Wafw00f**
 
-![wafw00f output](5_wafw00f.png)
+![wafw00f output](webappfirewall.png)
 
 **DNSRecon**
 
-![dnsrecon output](6_dnsrecon.png)
+![dnsrecon output](dnsrecon.png)
 
 **Zenmap ping scan**
 
-![Zenmap ping scan](7_zenmap_scan.png)
-
-**ipconfig /all** (part of the MAC address hidden)
-
-![ipconfig /all output](8_ipconfig_all.png)
+![Zenmap ping scan](zenmap.png)
 
 **Zenmap topology**
 
-![Zenmap topology](9_zenmap_topology.png)
+![Zenmap topology](topology.png)
 
 -End-
 
